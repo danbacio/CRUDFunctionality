@@ -1,0 +1,8 @@
+ro\mindit\springmvc\controller\HelloWorldRestController.class
+ro\mindit\springmvc\model\User.class
+ro\mindit\springmvc\configuration\HelloWorldConfiguration.class
+ro\mindit\springmvc\controller\IndexController.class
+ro\mindit\springmvc\configuration\CORSFilter.class
+ro\mindit\springmvc\configuration\HelloWorldInitializer.class
+ro\mindit\springmvc\service\UserService.class
+ro\mindit\springmvc\service\UserServiceImpl.class
